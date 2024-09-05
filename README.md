@@ -1,5 +1,5 @@
 # EX 9 Preprocessing on Twitter Data using Rapidminer
-### DATE:
+### DATE: 03/09/2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### NAME: karthick v
 ### REG NO: 212223040086
